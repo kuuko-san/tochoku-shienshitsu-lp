@@ -1,2 +1,4 @@
 # インストーラー本体はGitHub Releasesで配布(リポジトリには含めない)
 download/
+
+.vercel
